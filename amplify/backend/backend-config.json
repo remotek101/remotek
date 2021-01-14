@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"remotekcc4a6e23": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

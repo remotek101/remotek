@@ -1,0 +1,20 @@
+{
+    "staging": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-remotek-staging-123423-authRole",
+            "UnauthRoleArn": "arn:aws:iam::395880366846:role/amplify-remotek-staging-123423-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::395880366846:role/amplify-remotek-staging-123423-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-remotek-staging-123423-deployment",
+            "UnauthRoleName": "amplify-remotek-staging-123423-unauthRole",
+            "StackName": "amplify-remotek-staging-123423",
+            "StackId": "arn:aws:cloudformation:us-east-1:395880366846:stack/amplify-remotek-staging-123423/d59b1180-5664-11eb-883f-12193276ecaf",
+            "AmplifyAppId": "d26gcr0kfjds2b"
+        },
+        "categories": {
+            "auth": {
+                "remotekcc4a6e23": {}
+            }
+        }
+    }
+}
